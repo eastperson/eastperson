@@ -1,4 +1,4 @@
-### Hi there 👋
+### EP의 Github 👋
 
 ![Tech Blog Badge](http://img.shields.io/badge/-Spring%20Boot-black?style=flat-square)
 ![Tech Blog Badge](http://img.shields.io/badge/-JPA-black?style=flat-square)
