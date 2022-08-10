@@ -12,5 +12,5 @@
 ## Github Stats  
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=eastperson&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
 
-  <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
