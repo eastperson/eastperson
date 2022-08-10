@@ -8,6 +8,9 @@
 ![Tech Blog Badge](http://img.shields.io/badge/-ORM-black?style=flat-square)
 ![Tech Blog Badge](http://img.shields.io/badge/-Java-black?style=flat-square)
 ![Tech Blog Badge](http://img.shields.io/badge/-Kotlin-black?style=flat-square)
-	
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eastperson&show_icons=true&theme=dark)
+## Github Stats  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=eastperson&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
+
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
