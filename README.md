@@ -15,4 +15,6 @@
 - [API 시멘틱 버저닝(Semantic Versioning) 및 버전 관리 전략](https://velog.io/@eastperson/API-%EB%B2%84%EC%A0%80%EB%8B%9D-%EC%A0%84%EB%9E%B5)
 - [@Transactional 상황별 commit, rollback 전략](https://velog.io/@eastperson/Transactional-%EC%83%81%ED%99%A9%EB%B3%84-commit-rollback-%EC%A0%84%EB%9E%B5)
 
+[더보기](https://velog.io/@eastperson/posts)
+
  ## [EP's Notion](https://www.notion.so/75f974cdc87f4e18aabe800f57e8af0b)
