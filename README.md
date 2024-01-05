@@ -8,6 +8,8 @@
 - [MVCC(Multi Version Concurrency Control) 알아보기](https://monday9pm.com/mvcc-multi-version-concurrency-control-알아보기-e4102cd97e59)
 
 ## [EP's Velog 블로그](https://velog.io/@eastperson)
+- [synchronized와 ReentrantLock, 그리고 JDK21 Virtual Thread
+](https://velog.io/@eastperson/synchronized%EC%99%80-ReentrantLock-%EA%B7%B8%EB%A6%AC%EA%B3%A0-JDK-21-Virtual-Thread)
 - [Transactional Outbox Pattern 알아보기](https://velog.io/@eastperson/Transaction-Outbox-Pattern-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)
 - [스프링 이벤트를 활용해 로직간 강결합을 해결하는 방법](https://velog.io/@eastperson/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9D%B4%EB%B2%A4%ED%8A%B8%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%B4-%EB%A1%9C%EC%A7%81%EA%B0%84-%EA%B0%95%EA%B2%B0%ED%95%A9%EC%9D%84-%ED%95%B4%EA%B2%B0%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
 - [Spring Boot로 K6 & Grafana를 활용한 부하테스트 해보기](https://velog.io/@eastperson/Spring-Boot-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-K6-Grafana%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%B6%80%ED%95%98%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%95%B4%EB%B3%B4%EA%B8%B0)
