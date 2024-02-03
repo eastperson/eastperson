@@ -8,6 +8,7 @@
 - [MVCC(Multi Version Concurrency Control) 알아보기](https://monday9pm.com/mvcc-multi-version-concurrency-control-알아보기-e4102cd97e59)
 
 ## [EP's Velog 블로그](https://velog.io/@eastperson)
+- [Cache 알아보기](https://velog.io/@eastperson/Cache-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)
 - [synchronized와 ReentrantLock, 그리고 JDK21 Virtual Thread
 ](https://velog.io/@eastperson/synchronized%EC%99%80-ReentrantLock-%EA%B7%B8%EB%A6%AC%EA%B3%A0-JDK-21-Virtual-Thread)
 - [Transactional Outbox Pattern 알아보기](https://velog.io/@eastperson/Transaction-Outbox-Pattern-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)
