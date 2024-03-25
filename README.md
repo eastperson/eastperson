@@ -1,6 +1,7 @@
 
 # EP Blog
 ## [EP's Medium 블로그](https://medium.com/@eastperson)
+- [분산 트랜잭션(Distributed Transaction) 알아보기](https://eastperson.medium.com/분산-트랜잭션-distributed-transaction-알아보기-d0a10ad5dd53)
 - [Time Based UUID의 새로운 표준(IETF version 6,7,8)](https://eastperson.medium.com/time-based-uuid의-새로운-표준-ieft-version-6-7-8-0924b325c2db)
 - [Modular Monolithic Architecture와 Spring Modulith](https://monday9pm.com/modular-architecture와-spring-modulith-43b6709b2937)
 - [Spring MVC Application Server에 HTTP Request를 보내면 어떤 일이 일어날까?](https://monday9pm.com/spring-mvc에-http-request를-보내면-어떤-일이-일어날까-80467f8bc486)
