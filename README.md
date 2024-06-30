@@ -1,6 +1,7 @@
 
 # EP Blog
 ## [EP's Medium 블로그](https://medium.com/@eastperson)
+- [table lock 없이 alter table을 할 수 있을까?](https://eastperson.medium.com/table-lock-%EC%97%86%EC%9D%B4-alter-table%EC%9D%84-%ED%95%A0-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C-566042c9ff91)
 - [분산 트랜잭션(Distributed Transaction) 알아보기](https://eastperson.medium.com/분산-트랜잭션-distributed-transaction-알아보기-d0a10ad5dd53)
 - [Time Based UUID의 새로운 표준(IETF version 6,7,8)](https://eastperson.medium.com/time-based-uuid의-새로운-표준-ieft-version-6-7-8-0924b325c2db)
 - [Modular Monolithic Architecture와 Spring Modulith](https://monday9pm.com/modular-architecture와-spring-modulith-43b6709b2937)
